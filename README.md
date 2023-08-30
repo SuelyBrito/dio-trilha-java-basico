@@ -3,8 +3,8 @@ Repositorio para o curso Dio Java Basico
 # DIO - Trilha Java Básico
 www.dio.me
 
-## Sintaxe - Desafio proposto pelo  Curso DIO - Trilha Java Basico
-   Prof. Gleyson Sampaio 
+## Sintaxe - Desafio proposto pelo  Curso DIO - Trilha Java Basico - Prof. Gleyson Sampaio 
+   
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
